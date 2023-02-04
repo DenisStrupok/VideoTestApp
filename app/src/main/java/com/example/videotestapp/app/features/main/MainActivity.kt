@@ -1,4 +1,4 @@
-package com.example.videotestapp.features.main
+package com.example.videotestapp.app.features.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
