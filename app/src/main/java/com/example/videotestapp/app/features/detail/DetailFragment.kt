@@ -1,4 +1,4 @@
-package com.example.videotestapp.features.detail
+package com.example.videotestapp.app.features.detail
 
 import android.os.Bundle
 import android.view.View
